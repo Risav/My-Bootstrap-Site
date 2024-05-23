@@ -1,0 +1,44 @@
+/*
+Orange: #FFB067;
+Charcoal: #525862;
+Ivory: #E9EAEC;
+Chartreuse: #9BAD67;
+*/
+
+
+body {
+  background-color: #F3EFEE;
+  color: #525862;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+nav {
+  background-color: #FFB067;
+  color: #E9EAEC;
+}
+
+.icon-square {
+  color: #525862;
+  background-color: #9BAD67;
+}
+
+.btn1 {
+  background-color: #FFB067;
+}
+
+.btn1:hover{
+  background-color: #525862;
+}
+
+.btn2{
+  border-color: #FFB067;
+  color: #FFB067;
+}
+
+img {
+  border-radius: 0.7rem;
+}
+
+footer {
+  background-color: #FFB067;
+}
